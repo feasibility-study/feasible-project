@@ -20,4 +20,4 @@ delivery by vehicle is too inefficient as confirmed by us as we wait for our 美
 <img width="582" height="479" alt="image" src="https://github.com/user-attachments/assets/55c9f432-d4d1-44dd-92d0-59273109b680" />
 
 ### zine page
-<img width="416" height="591" alt="image" src="https://github.com/user-attachments/assets/f4a7b5f1-af6c-4a89-a79a-c321a8b6b4af" />
+<img width="533" height="763" alt="image" src="https://github.com/user-attachments/assets/57216241-da49-4a81-b99f-64e92c262245" />
