@@ -2,7 +2,12 @@
 delivery by vehicle is too inefficient as confirmed by us as we wait for our 美团 delivery while typing this. instead we replace it with a medieval weapon which is clearly much safer and more efficient. this project takes a trebuchet, motorises it, chucks a few things on top, and enables you to do last mile deliveries extremely efficiently.
 
 ## features
-* 
+* shoots stuff
+* "long" range
+* steerable
+* "sturdy" cardboard structure
+* usb c powered
+* uses monster as a counterweight
 
 ## images
 ### finished product
