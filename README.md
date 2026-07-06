@@ -14,6 +14,8 @@ delivery by vehicle is too inefficient as confirmed by us as we wait for our 美
 ## images
 ### finished product
 
+### wiring
+
 ### pretty shitty rough cad assembly
 <img width="582" height="479" alt="image" src="https://github.com/user-attachments/assets/55c9f432-d4d1-44dd-92d0-59273109b680" />
 
