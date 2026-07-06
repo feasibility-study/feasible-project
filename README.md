@@ -1,6 +1,8 @@
 # last mile delivery
 delivery by vehicle is too inefficient as confirmed by us as we wait for our 美团 delivery while typing this. instead we replace it with a medieval weapon which is clearly much safer and more efficient. this project takes a trebuchet, motorises it, chucks a few things on top, and enables you to do last mile deliveries extremely efficiently.
 
+[onshape link](https://cad.onshape.com/documents/c8bb4f95ef65107aa071d9b1/w/5d34f9bbb493c7e218241c9c/e/f0f316803eb7ce3d09766b84)
+
 ## features
 * shoots stuff
 * "long" range
